@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain queries humbly proposed in order to a quiet Christian submission to His Highness the Lord Protector S.N.</title>
+            <author>S. N., Gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52941</idno>
+            <idno type="STC">Wing N68</idno>
+            <idno type="STC">ESTC R7284</idno>
+            <idno type="EEBO-CITATION">12193607</idno>
+            <idno type="OCLC">ocm 12193607</idno>
+            <idno type="VID">55939</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52941)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55939)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 872:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain queries humbly proposed in order to a quiet Christian submission to His Highness the Lord Protector S.N.</title>
+                  <author>S. N., Gent.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for P.L. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Puritan Revolution, 1642-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55939:1"/>
+            <!-- PDF PAGE 45 -->
+            <pb facs="tcp:55939:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 45 -->
+            <p>Certain QUERIES Humbly propoſed In order to a quiet and Chriſtian ſubmiſſion To His Highneſs the LORD PROTECTOR And to the preſent Government.</p>
+            <p>BY <hi>S.</hi> N. Gent.</p>
+            <q>
+               <p>Ordinem non dari niſi cum ratione ad aliquid primum.</p>
+               <bibl>
+                  <hi>Averroes.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Mihi pax omni cum civibus bello civili utilior videtur.</p>
+               <bibl>
+                  <hi>Cicero.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>It is to be noted in a controverted caſe that a private man by no means ought to take upon himſelf to judge, but follow the poſſeſſion: ſo did Chriſt command tribute to be paid to <hi>Caeſar,</hi> becauſe the money bare his Image, that is, ſaith he, becauſe he was in poſſeſſion of the Empire.</p>
+               <bibl>
+                  <hi>H. Grotius.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>P. L.</hi> and are to be ſold at any Book<g ref="char:EOLhyphen"/>ſellers ſhop in <hi>London</hi> and <hi>Weſtminſter-Hall.</hi> 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="query">
+            <pb facs="tcp:55939:2"/>
+            <!-- PDF PAGE 46 -->
+            <pb n="1" facs="tcp:55939:2"/>
+            <!-- PDF PAGE 46 -->
+            <head>Querie I.</head>
+            <p>VVHether that good and ſober men of any Nation may not be too apt and ready through their own incogitancy and un<g ref="char:EOLhyphen"/>adviſedneſs to murmure and repine at their Gover<g ref="char:EOLhyphen"/>nors and Government, and that without a cauſe: The reaſon of this Querie is grounded both upon preſident and experience: the preſidents are to be found amongſt the people of <hi>Iſrael;</hi> As that ſaying of theirs unto <hi>Moſes, who made thee a Ruler and a judge over us?</hi> And again, when <hi>Moſes</hi> ſmote the <hi>Egypti<g ref="char:EOLhyphen"/>an,</hi> he ſuppoſed that his brethren would have un<g ref="char:EOLhyphen"/>derſtood that God by his hand would deliver them, yet we ſee they did not: the experience hath been in our own land, how have we admired both Go<g ref="char:EOLhyphen"/>vernors and Government? nay we have been like un<g ref="char:EOLhyphen"/>to thoſe S. <hi>Paul</hi> ſpeaks of, that would have pluckt out their own eyes and have given them unto him; even ſo we counted not our lives too dear to be ſacri<g ref="char:EOLhyphen"/>ficed for them; and yet we have ſeen our ſelves diſ<g ref="char:EOLhyphen"/>appointed in our expectations: Now then if thoſe high and confident thoughts of heart concerning the goodneſs and benefit of Governors and Government have ſuffered a fruſtration; then by the ſame Rule may the too mean and hard thoughts either of Go<g ref="char:EOLhyphen"/>vernor or Government, receive the like check, ſhame and diſappointment as the <hi>Iſraelites</hi> did concerning <hi>Moſes,</hi> and according to that maxime, <hi>Contraria con<g ref="char:EOLhyphen"/>trariorum ſunt conſequentia.</hi>
+            </p>
+            <pb n="2" facs="tcp:55939:3"/>
+            <!-- PDF PAGE 47 -->
+            <p n="2">2. Whether that the ſedition and diviſion daily ſown and fomented be not fruits of the fleſh, and the ſeeds-men thereof render themſelves exceeding culpable, both before God and all conſidering men: and whether ſuch perſons may not claim the titles, or at leaſt be juſtly conferred upon them, mentioned in the Epiſtle of <hi>Iude</hi> 8.2 <hi>Pet.</hi> 2.10. 2 <hi>Tim.</hi> 3.3, 4. <hi>viz. to be murmurers, complainers, traitors, high-minded, who deſpiſe Government, preſumptuous, ſelf-willed, and alſo not afraid to ſpeak evil of dignities:</hi> now all theſe ſeveral tranſgreſſors are doubtleſs very offenſive unto God, yet the laſt ſeems to carry a greater emphaſis in it, <hi>As not to be afraid to ſpeak evil of dignities:</hi> it is a certain kind of boldneſs to blaſpheme, for every kind of Authority hath a divine ſtamp upon it; and the greater and higher any Authority is, the greater is the ſin and the nearer to blaſphemy indeed; now for a man to be bold and daring in a wickedneſs, imports a ſtrange kind of eſtrangement from God, and of a proſtituted conſcience; therefore men verſed in this evil occupation had need to conſider whether (according to our Saviours ſaying) the word above mentioned will not judge them at the great day, and before alſo, for commonly they have part in hand until the whole be paid. Now whether the ſin be not yet greater being done and and perpetrated i the name of God, and many times in places where better things ſhould be both ſpoken and heard, and whether that makes it not more abominable: as then old ſaying is,</p>
+            <q>In nomine Domini incipit omne malum.</q>
+            <p n="3">3. Whether that God Almighty the King of Kings hath not manifeſted and declared as with an
+<pb n="3" facs="tcp:55939:3"/>
+               <!-- PDF PAGE 47 -->audible voice from heaven, that amongſt all the ſon of <hi>Ieſſe,</hi> this is that <hi>David</hi> that he hath choſen to be King of our <hi>Iſrael:</hi> elſe what is the meaning of all thoſe defeats and diſappointments of Treaſon, War and Bloud, and of all thoſe ſignal preſervations, even to the admiration of all that love him, and to the terror of thoſe that ſeek his hurt, if that the Lord that preſerved <hi>Daniel</hi> in the Lions den was not with him? His enemies they neither wanted will nor power nor ſubtilty to bring it to paſs, but God kept an opportunity out of their way. <hi>I</hi> confeſſe, there is a wicked mind amongſt many, which ſay now adays as the Jews did by our Saviours miracles, that either they were not at all, or elſe done by an evil ſpirit; whether ſuch men had not need to be careful leſt they fight againſt God, as they alſo did.</p>
+            <p>To whom did God Almighty ever do more, or give greater teſtimony unto then unto the preſent Lord Protector? hath not God crowned him with as many ſignal tokens of his favour as ever he did any the Kings of <hi>Iſrael?</hi> much leſs doubtleſs did he ever take pleaſure in any of the Kings of <hi>England</hi> after ſuch a manner: now then if that God Almighty hath owned and peculiarized him from amongſt ſo many Worthies, and hath made him to tread upon Scorpions, and ſuffer no deadly thing to hurt him, and hath poured contempt, diſgrace and ruine upon all his adverſaries, why then ſhould not any mans conſcience give him leave to ſay, this is Gods Anoin<g ref="char:EOLhyphen"/>ted, and him will we obey and pray for?</p>
+            <p n="4">4. Whether the principal ends of freedom and liberty formerly engaged for be not in the letter and by interpretation fully anſwered in the preſent Go<g ref="char:EOLhyphen"/>vernment.</p>
+            <pb n="4" facs="tcp:55939:4"/>
+            <!-- PDF PAGE 48 -->
+            <p>The firſt and main end was, the liberty of conſci<g ref="char:EOLhyphen"/>ence, which the late King and Biſhops did infringe: that was the pad in the ſtraw, which did ſo diſeaſe there was ſhip-money, and ſome other extra-legal taxes; but that which made thoſe mole-hils ſeem mountains was, that they muſt not onely proſtitute their purſes but their conſciences alſo: as likewiſe it is apparent that upon all turns and breaches both with the <hi>Scots,</hi> and with the Parliament, it was be<g ref="char:EOLhyphen"/>cauſe the one did abſolutely deſire rule and domina<g ref="char:EOLhyphen"/>tion in things Eccleſiaſtick, and the other was at leaſt ſuſpected to have an itch that way; which could not be born at any hand: had it not been for this great thing called liberty of conſcience, a hundred things would not have been ſo much inſiſted upon, and would have been eaſily ſwallowed without thoſe various combuſtions and ſtirs.</p>
+            <p>Now then in this our mouths may be wide open, and ſay what is wanting to any, or who can juſtly complain (except it be in liberty to ſinne;) <hi>There is no lowing of the Oxen nor Bleating of the ſheep</hi> in this caſe to any that is ſo much as morally civil, but all at perfect peace and liberty, as if God was come down among men: onely the <hi>Arminian</hi> party com<g ref="char:EOLhyphen"/>plain they are brow-beaten, which is a little too ap<g ref="char:EOLhyphen"/>parent I confeſs in ſome caſes, but bleſſed be God they may notwithſtanding ſay their lot is fallen in a good ground. Doubtleſs the controverſie is not for every underſtanding to reach or fadome; but whe<g ref="char:EOLhyphen"/>ther it be not more eaſie to be believed then refuted, I leave to others: for my own part, I cannot but believe that there may be an election of ſome parti<g ref="char:EOLhyphen"/>cular
+<pb n="5" facs="tcp:55939:4"/>
+               <!-- PDF PAGE 48 -->perſons more then others: Yet withal I cannot diſcerne from the Scriptures nor Reaſon how thoſe terrible and doleful decrees of particular perſons to be damned from eternity ſhould be ſupported: Now then if conſcience be free, and no reſtraint either to the weak or the ſtrong in well doing. In this have you not all, or once would it not have been eſteemed ſo: Let every man then examine his own conſcience, and ſay plainly whats it he wants (ſa<g ref="char:EOLhyphen"/>ving the caſting out of that unclean ſpirit of pride, Arrogancie and Ingratitude) and then doubtleſs he is either a man that is well, or may be if he himſelf ſee cauſe.</p>
+            <p n="5">5 Whether the preſent taxes be any ground at all of the leaſt diſcontent to any ſort of men what<g ref="char:EOLhyphen"/>ſoever. Becauſe Firſt, as to the Parliament Party and thoſe under that head, they have the greateſt reaſon to ſit down not with patience onely but with ſatisfaction, for two reaſons at leaſt: Firſt, becauſe by the late quarrel they have not diminiſhed their eſtates and treaſure, but I may ſafely ſay (and ſpeak no parable) they have increaſed them, and have with their blows received ſuitable encouragement; yet thoſe of that ſort that ſtaid by the ſtuffe have been beſt rewarded. Therefore for theſe Gentle<g ref="char:EOLhyphen"/>men that have reapt ſo good a crop and ſo plentiful harveſt to ſcruple the payment of their dues, and to ſpare a little out of their abundance, were high ingratitude to God and men; Conſidering there is nothing in all theſe preſent tranſactions but what themſelves have had ſome hand in to effect.</p>
+            <p>Secondly, If there were nothing elſe but that peaceable enjoyment of their own minds in Gods
+<pb n="6" facs="tcp:55939:5"/>
+               <!-- PDF PAGE 49 -->worſhip and ſervice, it were ſufficient, becauſe they would in time paſt have purchaſed it at a dearer rate when they were worſe able to bear it.</p>
+            <p>And as to others as well as to the generation men<g ref="char:EOLhyphen"/>tioned, <hi>I</hi> mean all the Proteſtants of England as they are both Chriſtians and Engliſh men, have not the leaſt ground of diſcontent. For the quarrel now is become the old Proteſtant cauſe that ever was afoot ſince the Reformation; it hath pleaſed God through his infinite wiſdom to end all our pri<g ref="char:EOLhyphen"/>vate and national quarrells, and ſettle it at that point of the compaſs where doubtleſs God Almigh<g ref="char:EOLhyphen"/>ty expects we ſhould all agree.</p>
+            <p>Although the charge hath been great, and ſome mens lives have expired in the quarrel, yet if men would be but ingenuous, there is much done already toward the charge againſt the Romiſh uſurpation, <hi>viz.</hi> what think you of the peace with <hi>Portugal,</hi> and the freedom from the Inquiſition there? whereof our merchants and ſeamen already feel the benefit: and I doubt not but the King of <hi>Spain</hi> alſo will hearken to thoſe moſt noble and Chriſtian terms propoſed by his Highneſs ere it be long. Therefore having put our hands to the plough let us not look back, but ra<g ref="char:EOLhyphen"/>ther rejoyce that God Almighty ſtill takes pleaſure in England to produce ſuch Worthies as ſhall be the worlds reformers, as <hi>Conſtantine</hi> the firſt Chriſtian Emperour borne at <hi>York,</hi> and <hi>Lucius</hi> the firſt Chri<g ref="char:EOLhyphen"/>ſtian King: and who cannot but diſcerne, as <hi>Conſtan<g ref="char:EOLhyphen"/>tine</hi> was a bleſſed Inſtrument of Gods to diſcharge the world from many of thoſe groſs Idolatries and ſu<g ref="char:EOLhyphen"/>perſtitions of the heathens, but that his Highneſs is a man exalted and raiſed on purpoſe to purge, as by
+<pb n="7" facs="tcp:55939:5"/>
+               <!-- PDF PAGE 49 -->fire, the corruptions, Idolatries &amp; heatheniſh ſuperſti<g ref="char:EOLhyphen"/>tions of the Church of <hi>Rome.</hi> Conſidering alſo that God hath made many promiſes to extirpate all that is or may be called Antichriſtian; now for us to be negligent, and murmure at ſo good a work, and not rather be thankful though it coſt us our all, is as much as to ſay to the Lord, Depart from us, for we would ſerve other maſters, would not this be to draw a ſackcloth over the ſun, and to poure contempt and ſhame upon our own heads! whom God and Chriſt would have lifted up, and would it not make us like unto <hi>Ieruſalem</hi> as a carcaſe without a ſoul ſo ſoon as the Lord had left them, we know the eagles? I mean the Romans (whoſe enſigne was mottoed with an eagle) ſoon made a prey of them. And further were it any ignoble deſigne or perſonal quarrel or point of honor, we might well ſay then what needs this waſt? but where there is not the leaſt compoſition or ingredient that is not honourable, but a common proteſtant cauſe and for the whole worlds reforma<g ref="char:EOLhyphen"/>tion, let us not grudge leſt God repent.</p>
+            <p n="6">6 Whether it were not more Chriſtian and bet<g ref="char:EOLhyphen"/>ter becoming the miniſtry to leave their obſcure prayers, as when they pray for the ſupreme Autho<g ref="char:EOLhyphen"/>rity, for the Chief magiſtrate, for thoſe in Authority &amp;c. and to pray in plain and intelligible Engliſh for his Highneſs the Lord <hi>Protector</hi> of <hi>England, Scotland</hi> and <hi>Ireland</hi> and the territories thereunto belonging, and for the Lords of his Councel, and for his family, &amp;c. for by the former termes of Art no man knows whom they mean, whether his Highneſs or the vaga<g ref="char:EOLhyphen"/>tor on the other ſide: If <hi>I</hi> may be ſo bold <hi>I</hi> think they have as much reaſon as the Kings Clergy, for
+<pb n="8" facs="tcp:55939:6"/>
+               <!-- PDF PAGE 50 -->they enjoy the ſame benefit with many an Augmen<g ref="char:EOLhyphen"/>tation: beſides, it would tend much to a through ſet<g ref="char:EOLhyphen"/>ling and a quenching of fooliſh and vain hopes.</p>
+            <p>
+               <hi>I</hi> hope there is no ſuch root of bitterneſs as to imagine they want incouragement, and men of other minds are tolerated, &amp;c. to be the cauſe of this ſtrange kind of obſcure, uncouth and cloudy prayers: Alas his Highneſs is the father of us all, a father of a family doth not diſcourage or upbraid any for not being ſo ſtraight, ſo tall, ſo good memory, ſo quick of diſcerning; no more can his Highneſs to the people of ſeveral and various minds, if he ſhould it would render him unnatural: for it is much for any ma<g ref="char:EOLhyphen"/>giſtrate to keep himſelf free from the charge in the poet, <hi>Dat veniam corvis, vexat cenſura columbas,</hi> which <hi>I</hi> doubt not his Highneſs will have regard unto as hitherto.</p>
+            <p n="7">7 Whether the inflicting the ſevereſt puniſhment upon traitors, conſpirators, &amp;c. be any cauſe of diſſatisfaction to any, but rather by far of the greateſt content and ſubmiſſion: for have not thoſe Gentlemen that have been known by the name of the Kings par<g ref="char:EOLhyphen"/>ty been favourably dealt with, conſidered as conque<g ref="char:EOLhyphen"/>red? their penances for their faults have been very tolerable, and <hi>I</hi> know upon good grounds that many are ſo ingenuous as to acknowledge it, and will ſay they believe they ſhould not have ſhewn ſo much favour as is received; his Highneſs in this imitates God Almighty in ſuch a demeanour of himſelf, for if mercy, forbearance, patience nay and long-ſufferance will not do, then he poureth out his wrath and indig<g ref="char:EOLhyphen"/>nation upon the diſobedient. Now all that ſeems hard is that ſo many worthy Gentlemen who its
+<pb n="9" facs="tcp:55939:6"/>
+               <!-- PDF PAGE 50 -->believed hath had neither intention heart nor hand in any Treaſonable Act, ſhould be ſecured and kept under reſtraint; the equi<g ref="char:EOLhyphen"/>ty and reaſon of that is plain, becauſe a plot or con<g ref="char:EOLhyphen"/>ſpiracy being diſcovered concerning a party, and ma<g ref="char:EOLhyphen"/>ny known to be guilty which in appearance ſeemed as harmleſs, &amp; much more alſo then many of the reſt: what would they themſelves do but think and be ve<g ref="char:EOLhyphen"/>ry jealous of the whole, and ſo ſecure the nation and free the perſons if innocent from a temptation and keep them out of harms way? Now if his Highneſs ſhould hearken too much to his own clemency in ſuch caſes, whether he would not, firſt ſin againſt God in not inflicting puniſhment; ſecondly, againſt the Na<g ref="char:EOLhyphen"/>tion; thirdly againſt himſelf.</p>
+            <p n="8">8. Whether that any people in the world (to ſpeak without any flattery) have Magiſtrates ſo free from all manner of corruption as we have? what Prince ſpends ſo many hours in prayer and devoti<g ref="char:EOLhyphen"/>on as ours? what King hath a Councell ſo free from vice? no debauchery, no luxury is to be heard of amongſt them; but are all examples of a holy re<g ref="char:EOLhyphen"/>ligious life to the nation round about: how impar<g ref="char:EOLhyphen"/>tial in juſtice? I have not heard ſo much as one a<g ref="char:EOLhyphen"/>mongſt many thoſands that can ſay juſtice is denied him. And the Court governed according to <hi>Davids</hi> pattern, not a man that is a lyar muſt abide under his roof, or any that have dependency upon him: now then if ſo, can we hope to be better, to have more juſtice under any other way or perſon? doe you think we ſhall have better examples, better Counſellors, eaſier Acceſs, freer from bribery, juſtice more equally diſtributed? if we do, it muſt be when the Millenary kingdom comes to paſs, for my part I expect it not.</p>
+            <pb n="10" facs="tcp:55939:7" rendition="simple:additions"/>
+            <!-- PDF PAGE 51 -->
+            <p n="9">9. Whether there be any cauſe for the plea of in<g ref="char:EOLhyphen"/>heritance to the Gentleman on the other ſide, ſo as to diſturb the thoughts of any: you know that the entail of an eſtate may be cut off, and is amongſt us daily: ſo God and men have agreed to cut off his; though I think there was enough in all equity and reaſon to cut off his father, yet ſome do ſurmiſe, and many believe that there was a greater judgement fol<g ref="char:EOLhyphen"/>lowed him then the things he died for: therefore <hi>I</hi> could wiſh that no man would be ſo daring and pre<g ref="char:EOLhyphen"/>ſumptuous as to think otherwiſe then that the juſtice of God and the juſtice of men met together to cut off that line: as he did concerning <hi>Eli,</hi> he promiſed he and his ſhould be prieſts for ever, yet we ſee for ſin and tranſgreſſion the line was cut off. Now its true the ſeed is eſcaped with their lives, <hi>I</hi> am apt to think the reaſon is they are not of ſo ſanguine a conſtitution though in juſtice by the wiſe diſpenſations of God thought meet to undergo the miſery of being vaga<g ref="char:EOLhyphen"/>tors upon the face of the earth.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
